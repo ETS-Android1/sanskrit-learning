@@ -1,0 +1,59 @@
+
+<resources>
+
+    <!--numbers-->
+    <string name="sanskrit_number_one">एकः</string>
+    <string name="sanskrit_number_two">द्वौ</string>
+    <string name="sanskrit_number_three">त्रयः</string>
+    <string name="sanskrit_number_four">चत्वारः</string>
+    <string name="sanskrit_number_five">पञ्च</string>
+    <string name="sanskrit_number_six">षट्</string>
+    <string name="sanskrit_number_seven">सप्त</string>
+    <string name="sanskrit_number_eight">अष्ट</string>
+    <string name="sanskrit_number_nine">नव</string>
+    <string name="sanskrit_number_ten">दश</string>
+
+    <!--family-->
+    <string name="sanskrit_family_father">पिता</string>
+    <string name="sanskrit_family_mother">माता</string>
+    <string name="sanskrit_family_son">पुत्रः</string>
+    <string name="sanskrit_family_daughter">पुत्री</string>
+    <string name="sanskrit_family_older_brother">ज्येष्ठभ्राता</string>
+    <string name="sanskrit_family_younger_brother">कनिष्ठभ्राता</string>
+    <string name="sanskrit_family_older_sister">ज्येष्ठभगिनी</string>
+    <string name="sanskrit_family_younger_sister">कनिष्ठभगिनी</string>
+    <string name="sanskrit_family_grandmother">पितामही</string>
+    <string name="sanskrit_family_grandfather">पितामहः</string>
+
+
+    <!--colors-->
+    <string name="sanskrit_color_red">रक्तवर्णः</string>
+    <string name="sanskrit_color_yellow">पीतः</string>
+    <string name="sanskrit_color_green">हरितः</string>
+    <string name="sanskrit_color_brown">श्यावः</string>
+    <string name="sanskrit_color_black">श्यामः</string>
+    <string name="sanskrit_color_gray">धूषरः</string>
+    <string name="sanskrit_color_white">श्वेतः</string>
+
+    <!--phrases-->
+    <string name="sanskrit_phrase_hello">नमस्कारः</string>
+    <string name="sanskrit_phrase_how_are_you">भवती कथम् अस्ति</string>
+    <string name="sanskrit_phrase_good_morning">शुप्रभातम्</string>
+    <string name="sanskrit_phrase_good_afternoon">शुभमध्याह्नम्</string>
+    <string name="sanskrit_phrase_good_evening">शुभसायम्</string>
+    <string name="sanskrit_phrase_good_night">शुभरात्री</string>
+    <string name="sanskrit_phrase_happy_birthday">जन्मदिनशुभेच्छाः</string>
+    <string name="sanskrit_phrase_happy_new_year">नववर्षस्य शुभकामना</string>
+    <string name="sanskrit_phrase_good_luck">सौभाग्यम्</string>
+    <string name="sanskrit_phrase_see_you_soon">शीघ्रम् मिलयामः</string>
+    <string name="sanskrit_phrase_i_love_you">त्वामनुरजामि</string>
+    <string name="sanskrit_phrase_i_miss_you">त्वय्युत्कंठामि</string>
+    <string name="sanskrit_phrase_i_am_sorry">कृपया क्षम्यताम्</string>
+    <string name="sanskrit_phrase_yes">आम्</string>
+    <string name="sanskrit_phrase_no">न</string>
+    <string name="sanskrit_phrase_thank_you">धन्यवादाः</string>
+    <string name="sanskrit_phrase_you_are_welcome">स्वागतम्</string>
+    <string name="sanskrit_phrase_have_good_day">सुदिनमस्तु</string>
+    
+
+</resources>
